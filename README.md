@@ -4,7 +4,7 @@ Zambia is a landlocked country in central Africa with a population of 21.31 mill
 
 In it's Rural Electrification Master Plan (REMP), REA has focused its efforts on electrifying 1,217 Rrual Growth Centers, which are designated areas with concentrated populations and economic activity. Through this approach, REA had achieved an electrification rate of these centers of 45% as of 31st Mach, 2024! 
 
-In this notebook we seek to explore this using use case with open data and workflows powered by Github Copilot!
+In this notebook we seek to explore this use case with open data and workflows powered by Github Copilot!
 
 ## Overview
 
