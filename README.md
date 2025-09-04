@@ -39,3 +39,5 @@ The `energy_access.ipynb` notebook creates a multi-layered geospatial visualizat
 ## Output
 
 The final visualization creates an integrated map showing population density with power infrastructure overlaid. Yellow 10km buffers around substations help identify which populated areas have potential access to electricity and which areas may not.
+
+![A map of Zambia shows the overlay of power infrastructure and population.](output.png "Zambia Energy Analysis Visual")
